@@ -6,7 +6,7 @@ This project is a Tkinter-based application that allows users to visualize and c
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AntoniousShehata/Rostock.git
+    git clone https://github.com/ozkoc/M604_Advanced_Programming
     cd Rostock
     ```
 
